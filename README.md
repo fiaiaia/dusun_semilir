@@ -1,6 +1,4 @@
-# pantai_ngebum
-
-A new Flutter project.
+# APLIKASI TEMPAT WISATA PANTAI NGEBUM
 
 ## Getting Started
 

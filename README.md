@@ -1,6 +1,14 @@
 # APLIKASI TEMPAT WISATA PANTAI NGEBUM
 
-## Getting Started
+#### Location: Kendal, Jawa Tengah
+
+---
+
+Created by  : Lutfia Cholidina 
+
+From        : IK-2A / 3.34.21.0.14
+
+--
 
 This project is a starting point for a Flutter application.
 

@@ -1,6 +1,6 @@
 # APLIKASI TEMPAT WISATA PANTAI NGEBUM
 
-#### Location: Kendal, Jawa Tengah
+### Location: Kendal, Jawa Tengah
 
 
 
@@ -10,7 +10,7 @@ From        : IK-2A / 3.34.21.0.14
 
 
 
-# SCREENSHOOT HASIL
+## SCREENSHOOT HASIL
 
 
 ![hasil](https://user-images.githubusercontent.com/116775787/198816698-94ed4d17-dc19-40cd-ab07-93a6a3175154.jpg)

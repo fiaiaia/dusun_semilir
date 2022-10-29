@@ -8,15 +8,7 @@ Created by  : Lutfia Cholidina
 
 From        : IK-2A / 3.34.21.0.14
 
---
+##SCREENSHOOT HASIL
+![hasil](https://user-images.githubusercontent.com/116775787/198816698-94ed4d17-dc19-40cd-ab07-93a6a3175154.jpg)
+![hasil2](https://user-images.githubusercontent.com/116775787/198816697-d58eb9d8-5a07-4799-b85d-6b6373234f2e.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

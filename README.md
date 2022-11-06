@@ -4,9 +4,11 @@
 
 
 
-Created by  : Lutfia Cholidina 
+Nama  : Lutfia Cholidina 
 
-From        : IK-2A / 3.34.21.0.14
+NIM   : 3.34.21.0.14
+
+Kelas : IK-2A / 14
 
 
 
